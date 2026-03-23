@@ -1,3 +1,5 @@
+
+![vbaXray logo](logo_vbaxray.png)
 # vbaXray
 
 A pure-VBA class that reads, inspects, and exports VBA source code directly from Office binary files — without opening them, without requiring any admin rights or registry changes.
