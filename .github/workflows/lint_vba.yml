@@ -23,4 +23,4 @@ jobs:
     - name: Lint
       uses: Vba-actions/lint-vba@v1
       with:
-        path: './src'
+        path: './build'
